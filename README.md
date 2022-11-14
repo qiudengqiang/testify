@@ -1,2 +1,2 @@
 # testify
-The repo content about practice of tech.
+The content of this repo about practice of tech.
